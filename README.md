@@ -74,6 +74,7 @@ A faire :
 
 ## Projet
 
+L’objectif du projet est de développer un jeu en 2D de type Space Shooter en utilisant React. Dans ce jeu, les joueurs prendront le contrôle d’un vaisseau spatial et affronteront des vagues d’ennemis dans l’espace.
 Objectif créer un petit jeu en 2D (ou 3D isométrique) jouable en navigateur.
 
 Contraintes :
@@ -83,11 +84,17 @@ Avoir au moins un de ces éléments présent dans le jeu :
 - de la génération aléatoire (création de niveau aléatoire: labyrinthe, plateforme, ennemi)
 - du pathfinding (des éléments de jeu utilisant un algo de pathfinding: Dijkstra, A*, D*)
 
-### Exemples/Idées
 
+### Exemples/Idées
 - jeu de plateforme: gravité, collision, niveaux aléatoires
 - aventure (zelda like): collision, pathfinding, niveaux aléatoire
 - rogue like: collision, pathfinding, niveaux aléatoire
 - shoot them up: gravité, collision, ennemis aléatoire
 - jeu de billard: collision
 - pacman: pathfinding
+
+
+#### Image
+![Illustration](src/accueil.png)
+![Illustration](src/principal.png)
+![Illustration](src/game over.png)
