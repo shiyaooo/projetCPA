@@ -97,4 +97,4 @@ Avoir au moins un de ces éléments présent dans le jeu :
 #### Image
 ![Illustration](src/accueil.png)
 ![Illustration](src/principal.png)
-![Illustration](src/game over.png)
+![Illustration](src/game_over.png)
